@@ -1,4 +1,4 @@
-# AA Good VsCode Cheat Sheet
+# A Good VsCode Cheat Sheet
 
 This is a one page website that has `index.html`
 
