@@ -1,6 +1,6 @@
 # AA Good VsCode Cheat Sheet
 
-This is a two page website that has `index.html`
+This is a one page website that has `index.html`
 
 Pull requests are welcome! To edit locally, install jekyll and run `jekyll serve`
 
