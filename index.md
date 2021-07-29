@@ -8,8 +8,6 @@ title: A Good VsCode Cheat Sheet
 I couldn't find any good cheatsheet for vscode so I made one,
 thanks to https://github.com/vinitkumar/white-paper and https://github.com/theicfire/vimsheet
 
-## Essentials
-
 ### Editing text
 
 - `cmd + C` - copy line or highlight
